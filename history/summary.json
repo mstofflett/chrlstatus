@@ -4,7 +4,7 @@
     "url": "https://mesa.accesschrl.com",
     "icon": "https://icons.duckduckgo.com/ip3/mesa.accesschrl.com.ico",
     "slug": "chrl",
-    "status": "up",
+    "status": "down",
     "uptime": "98.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
@@ -16,6 +16,7 @@
     "timeMonth": 424,
     "timeYear": 401,
     "dailyMinutesDown": {
+      "2023-07-17": 0,
       "2023-07-14": 18,
       "2022-12-25": 366,
       "2022-12-24": 1440,
