@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mesa.accesschrl.com.ico",
     "slug": "chrl",
     "status": "up",
-    "uptime": "70.91%",
+    "uptime": "70.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "9.48%",
-    "time": 625,
-    "timeDay": 622,
-    "timeWeek": 759,
-    "timeMonth": 828,
-    "timeYear": 840,
+    "uptimeYear": "9.76%",
+    "time": 626,
+    "timeDay": 509,
+    "timeWeek": 720,
+    "timeMonth": 815,
+    "timeYear": 831,
     "dailyMinutesDown": {
       "2026-06-09": 638,
       "2026-06-08": 1440,
@@ -344,8 +344,7 @@
       "2025-07-19": 1440,
       "2025-07-18": 1440,
       "2025-07-17": 1440,
-      "2025-07-16": 1440,
-      "2025-07-15": 1440
+      "2025-07-16": 1440
     }
   },
   {
@@ -360,10 +359,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 181,
-    "timeDay": 80,
-    "timeWeek": 108,
-    "timeMonth": 178,
-    "timeYear": 189,
+    "timeDay": 43,
+    "timeWeek": 83,
+    "timeMonth": 169,
+    "timeYear": 188,
     "dailyMinutesDown": {}
   },
   {
@@ -378,9 +377,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 322,
-    "timeDay": 315,
-    "timeWeek": 236,
-    "timeMonth": 259,
+    "timeDay": 418,
+    "timeWeek": 259,
+    "timeMonth": 265,
     "timeYear": 317,
     "dailyMinutesDown": {
       "2026-01-26": 22
